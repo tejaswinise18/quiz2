@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Inline CSS</title>
+    </head>
+      
+    <body>
+        <p style = "color:#009900; font-size:50px;
+                font-style:italic; text-align:center;">
+            My name is Tejaswini
+        </p>
+        <p style = "color:#996e00; font-size:50px;
+        font-style:italic; text-align:center;">
+    School of computer science and engineering
+</p>
+<p style = "color:#005e99; font-size:50px;
+font-style:italic; text-align:center;">
+Section A
+</p>
+</body>
+</html>         
